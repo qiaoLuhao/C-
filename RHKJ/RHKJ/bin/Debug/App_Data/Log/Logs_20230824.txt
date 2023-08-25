@@ -1,0 +1,10 @@
+2023-08-24 15:25:07,920 [1] INFO  RHKJ.Program - 川页点击了开始运行
+2023-08-24 15:25:09,226 [1] INFO  RHKJ.Program - 川页点击了硬件配置 
+2023-08-24 15:25:10,378 [1] INFO  RHKJ.Program - 川页点击了物料管理 
+2023-08-24 15:26:43,805 [1] INFO  RHKJ.mainForm - 川页点击了开始运行
+2023-08-24 15:26:44,361 [1] INFO  RHKJ.mainForm - 川页点击了硬件配置 
+2023-08-24 15:26:45,180 [1] INFO  RHKJ.mainForm - 川页点击了物料管理 
+2023-08-24 15:27:00,628 [1] INFO  RHKJ.SettingForm - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>删除了 id={0} {1}{2}{3}{4}</format><args>{跑鞋, 299, 弹跳性极佳, Li-Ning}</args></log4net.Error>
+2023-08-24 15:31:35,484 [1] INFO  RHKJ.SettingForm - 删除了29跑鞋299弹跳性极佳Li-Ning
+2023-08-24 15:33:20,148 [1] INFO  RHKJ.SettingForm - 川页点击了设置中文件保存按钮
+2023-08-24 15:33:33,547 [1] INFO  RHKJ.SettingForm - 删除了id=47-跑鞋-299-弹跳性极佳-Li-Ning
